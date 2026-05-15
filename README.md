@@ -15,6 +15,7 @@ Stretch goal: Feel free to optionally add more stats such as os version, uptime,
 
 # Server Stats Script - Analyzes basic server performance stats
 # Usage:./server-stats.sh
+# Proeject URL: https://roadmap.sh/projects/server-stats
 
 <img width="949" height="470" alt="image" src="https://github.com/user-attachments/assets/ace5d35f-f135-427e-8237-bd391f8f88d5" />
 <img width="943" height="471" alt="image" src="https://github.com/user-attachments/assets/31271125-eeb2-4946-b9ab-444a4b1f3f1c" />
